@@ -1,2 +1,8 @@
-# ToDo-List-App
-A sleek, responsive Todo List app built with React.js, Tailwind CSS, and React Icons. Effortlessly manage tasks with intuitive features like task creation, completion tracking, and filtering. Stay organized and boost productivity with this lightweight, user-friendly application.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
